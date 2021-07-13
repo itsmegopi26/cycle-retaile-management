@@ -31,7 +31,7 @@ push.post('/Entry_cycle',urlencodedParser, function (req, res) {
 	    	},function(err){
 	    	    return res.status(500).send("Amount updation failed")
 	    	});
-			//finish the program
+			//finish the program end.
 			
 
 		} else{
