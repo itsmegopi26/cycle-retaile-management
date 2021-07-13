@@ -1,0 +1,50 @@
+1st table :
+[{
+	Language : "Tamil",
+	Language Id : "123"
+},
+{
+	Language : "English",
+	Langiuage Id : "1234"
+},
+{
+	Language : "Maths",
+	Language : "12345"
+}]
+
+2nd table :
+[{
+	Language Id : "123",
+	Sylabus : "unit-1",
+},
+{
+	Language Id : "1234",
+	Sylabus : "unit-4"
+},
+{
+	Language Id : "12345",
+	Sylabus : "unit-5",
+},
+{
+	Language Id : "12345",
+	Sylabus : "unit-5"
+}
+]
+
+3rd table :
+[
+{
+	Language Id : "123",
+	Sylabus : "unit-1",
+	user Id : "1@1"
+},
+{
+	Language Id : "1234",
+	Sylabus : "unit-4",
+	user Id : "1@2"
+},
+{
+	Language Id : "12345",
+	Sylabus : "unit-5",
+	user Id : "1@3"
+}]
