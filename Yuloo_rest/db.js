@@ -16,7 +16,7 @@ try {
 	console.error('unable to connect the database',error)
 }
 
-var cycle = sequelize.define('get',{
+var cycle = sequelize.define('cycle',{
     id     : { type: Sequelize.UUID, defaultValue: Sequelize.UUIDV1, primaryKey: true },
     user_id   : { type: Sequelize.STRING,unique:true },
     hour : { type: Sequelize.INTEGER, defaultValue: 0 },
